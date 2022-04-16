@@ -16,7 +16,7 @@
 title: "Hello. I'm Youngwoo Yoo."
 email: 'youngwooyoo90@gmail.com'
 description: "I'm a AI researcher for developing SLAM System of Autonomous Vehicles and Robots."
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://yoowy90.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'None'
 github_username: 'yoowy90'
@@ -97,5 +97,5 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
+  - { url: '/home', text: 'Home' }
   - { url: '/about', text: 'About' }
